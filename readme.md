@@ -17,7 +17,7 @@ Notice the logic is written in such a way, the computer opponent will try to blo
 
 Follow the prompts in the GUI to play the game.
 
-Visual Demonstration
+## Visual Demonstration
 
 <img src="/connect4.gif" width="450" height="550"/>
 
