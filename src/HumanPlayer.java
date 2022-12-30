@@ -2,11 +2,7 @@
 
 /**
  * @author 		Saif Mahmud
- * @id          7808507
- * @version     Aug. 3, 2020
- * @instructor	
- * @assignment	
- * @purpose		
+ * @version     Aug. 3, 2020	
  */
 public class HumanPlayer implements Human {
 

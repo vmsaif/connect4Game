@@ -11,6 +11,6 @@ public class Main
 	
 	public static void main(String[] args) 
 	{
-		GameLogic gl = new Logic(6 + rand.nextInt(6));
+		GameLogic gl = new Logic(5 + rand.nextInt(3));
 	}
 }//class
