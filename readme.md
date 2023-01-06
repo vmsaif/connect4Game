@@ -9,11 +9,12 @@ Notice the logic is written in such a way, the computer opponent will try to blo
 3. Working with Java GUI elements, such as buttons and labels
 4. Testing and debugging code to ensure it is functioning correctly
 
-## Running
-1. Ensure that you have the latest version of Java installed on your computer.
-2. Navigate to the `src/` directory of the project in your terminal.
-3. Run the command `javac *.java` to compile the Java files in the src directory to bin directory.
-4. Run the command `java SIMULATE.java` to run the main program.
+## Compiling and Running
+Ensure that you have the latest version of Java installed on your computer.
+### To Compile
+    javac -d bin src\*.java
+### Run
+    java -cp bin\ Main
 
 Follow the prompts in the GUI to play the game.
 
