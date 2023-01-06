@@ -18,7 +18,7 @@ Ensure that you have the latest version of Java installed on your computer.
 
 Follow the prompts in the GUI to play the game.
 
-Visual Demonstration
+## Visual Demonstration
 
 <img src="/connect4.gif" width="450" height="550"/>
 
