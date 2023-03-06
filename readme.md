@@ -1,4 +1,7 @@
 # Connect 4
+
+[![Hits](https://hits.sh/github.com/vmsaif/connect4Game.svg?label=Visits&color=100b75)](https://hits.sh/github.com/vmsaif/connect4Game/)
+
 This is a Java program that implements the classic Connect 4 game using an interface and Java GUI. The user can play against a computer opponent, whose logic was implemented by me. The objective of the game is to get four of your colored circles in a line, either horizontally, vertically, or diagonally.
 
 Notice the logic is written in such a way, the computer opponent will try to block the user from winning. However, to keep the game fun, it will ignore occasionally. 
